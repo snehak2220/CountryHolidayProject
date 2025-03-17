@@ -44,8 +44,8 @@ A Django-based application that integrates with the Calendarific API to help use
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/snehak2220/HolidaysApp.git
-    cd HolidaysApp
+    git clone https://github.com/snehak2220/CountryHolidayProject.git
+    cd CountryHolidayProject
     ```
     
 2. **Install The Requirements:**
