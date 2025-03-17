@@ -1,0 +1,15 @@
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.badge {
+    margin-right: 5px;
+}
+
+.details-btn {
+    margin-top: 10px;
+}
